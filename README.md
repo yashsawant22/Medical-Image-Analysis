@@ -11,8 +11,6 @@ This project focuses on the accurate prediction of fetal gestational age from re
 - [Data Augmentation](#data-augmentation)
 - [Convolutional Neural Network Model](#convolutional-neural-network-model)
 - [Dimensionality Reduction (PCA)](#dimensionality-reduction-pca)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Data Preprocessing
 
@@ -42,14 +40,4 @@ This project employs Principal Component Analysis (PCA) for dimensionality reduc
 - Selecting a suitable number of principal components for dimensionality reduction.
 - Transforming the training and testing datasets using PCA.
 
-## Contributing
 
-Contributions to this project are welcome. If you'd like to enhance the code, add features, or address issues, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file. You can submit pull requests, report issues, and collaborate with the community to improve the project.
-
-## License
-
-This project is licensed under the [License Name](LICENSE.md). Detailed information about the license terms and conditions is available in the [LICENSE.md](LICENSE.md) file.
-
----
-
-Customize this README template with specific details about your project, structure, and goals. A well-structured README helps users understand your project and encourages contributions from the open-source community.
