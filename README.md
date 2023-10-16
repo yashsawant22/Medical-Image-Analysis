@@ -1,6 +1,5 @@
 # Fetal Gestational Age Prediction with Convolutional Neural Networks and PCA
 
-![Project Logo](logo.png) (Optional)
 
 ## Description
 
